@@ -1,0 +1,17 @@
+{
+  "name": "raj-ultimate-system",
+  "version": "4.0.0",
+  "description": "RAJ ULTIMATE SYSTEM - Safe Messaging & Advanced Locking for Facebook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fca-mafiya": "latest",
+    "ws": "^8.14.2"
+  },
+  "keywords": ["facebook", "messaging", "locking", "fca"],
+  "author": "RAJ",
+  "license": "MIT"
+}
